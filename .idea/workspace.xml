@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63b85478-854b-4004-bfb0-1d63dee0a533" name="Changes" comment="Update 2">
-      <change afterPath="$PROJECT_DIR$/APITest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_ignite.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_ignite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RMPClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratemyprof_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scraper.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +91,8 @@
       <workItem from="1712725501065" duration="6867000" />
       <workItem from="1713379040273" duration="13409000" />
       <workItem from="1713557718693" duration="612000" />
+      <workItem from="1713632376530" duration="45000" />
+      <workItem from="1713811980110" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="Update 1">
       <option name="closed" value="true" />
